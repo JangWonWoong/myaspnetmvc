@@ -100,7 +100,7 @@ namespace MvcApplication1.Controllers
         }
 
         //
-        // POST: /Movies/Delete/5
+        // POST: /Movies/Delete/5 1
 
         [HttpPost, ActionName("Delete")]
         public ActionResult DeleteConfirmed(int id)
